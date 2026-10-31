@@ -25,9 +25,9 @@
   ],
   "dependencies": {
     "ink": "4.4.1",
-    "pastel": "2.0.2",
+    "pastel": "4.0.1",
     "react": "18.2.0",
-    "zod": "3.23.8"
+    "zod": "4.6.7"
   },
   "devDependencies": {
     "@types/node": "18.19.39",
